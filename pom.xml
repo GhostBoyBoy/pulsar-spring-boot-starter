@@ -12,7 +12,7 @@
 
   <groupId>io.github.mingyifei</groupId>
   <artifactId>pulsar-spring-boot-starter</artifactId>
-  <version>1.0-RELEASE</version>
+  <version>1.0.0-RELEASE</version>
   <name>pulsar-spring-boot-starter</name>
   <description/>
 
