@@ -110,4 +110,9 @@ spring.application.name=pulsar-demo
 spring.profiles.active=test
 pulsar.client.serviceUrl=pulsar://localhost:6650
 ```
+pulsar-admin命令
+创建完成namespace，执行
 
+```shell
+$ pulsar-admin namespaces set-schema-compatibility-strategy -c ALWAYS_COMPATIBLE 租户/命名空间
+```
