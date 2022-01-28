@@ -24,7 +24,7 @@
 <dependency>
   <groupId>io.github.mingyifei</groupId>
   <artifactId>pulsar-spring-boot-starter</artifactId>
-  <version>申请中</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
