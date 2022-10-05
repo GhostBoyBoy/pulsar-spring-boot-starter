@@ -29,7 +29,7 @@
 
     <spring.boot.version>2.1.3.RELEASE</spring.boot.version>
 
-    <apache.pulsar.client.version>2.8.1</apache.pulsar.client.version>
+    <apache.pulsar.client.version>2.8.4</apache.pulsar.client.version>
     <testcontainers.version>1.16.0</testcontainers.version>
     <junit-jupiter.version>5.8.1</junit-jupiter.version>
     <awaitility.version>4.1.0</awaitility.version>
